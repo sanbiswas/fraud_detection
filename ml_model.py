@@ -8,3 +8,5 @@ def model3():
 
 def model3():
     print('code for model#3')
+
+print('model2 is the winner')
